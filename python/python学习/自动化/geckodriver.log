@@ -1,0 +1,20 @@
+1518243626596	geckodriver	INFO	geckodriver 0.19.1
+1518243626605	geckodriver	INFO	Listening on 127.0.0.1:53941
+1518243629001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\刘必勇\\AppData\\Local\\Temp\\rust_mozprofile.U3dz36y4wx2W"
+1518243632010	Marionette	INFO	Enabled via --marionette
+1518243637148	Marionette	INFO	Listening on port 53949
+1518243637551	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\刘必勇\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://web.yixin.im/m/r/core.js?7d338c1ef698e862cb58052c87490266, line 117: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core.js?d43914c2cdd2ad99d05431012bbf2898, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer.js?87b574c4a55723ba454e40be3a24def9, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer.js?87b574c4a55723ba454e40be3a24def9, line 11: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\刘必勇\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\刘必勇\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

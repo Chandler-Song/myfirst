@@ -1,0 +1,10 @@
+import turtle
+turtle.setup(1300,800,0,0)
+turtle.pencolor("black")
+turtle.pensize(2)
+turtle.seth(60)
+turtle.fd(100)
+turtle.seth(-60)
+turtle.fd(100)
+turtle.seth(180)
+turtle.fd(100)
